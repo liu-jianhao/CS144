@@ -1,0 +1,97 @@
+[
+{
+  "directory": "/Users/liujianhao/share/sponge/cmake-build-debug/libsponge",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/Users/liujianhao/share/sponge/libsponge/util -I/Users/liujianhao/share/sponge/libsponge/tcp_helpers -I/Users/liujianhao/share/sponge/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -Wloop-analysis -g -ggdb3 -Og -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/sponge.dir/byte_stream.cc.o -c /Users/liujianhao/share/sponge/libsponge/byte_stream.cc",
+  "file": "/Users/liujianhao/share/sponge/libsponge/byte_stream.cc"
+},
+{
+  "directory": "/Users/liujianhao/share/sponge/cmake-build-debug/libsponge",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/Users/liujianhao/share/sponge/libsponge/util -I/Users/liujianhao/share/sponge/libsponge/tcp_helpers -I/Users/liujianhao/share/sponge/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -Wloop-analysis -g -ggdb3 -Og -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/sponge.dir/util/address.cc.o -c /Users/liujianhao/share/sponge/libsponge/util/address.cc",
+  "file": "/Users/liujianhao/share/sponge/libsponge/util/address.cc"
+},
+{
+  "directory": "/Users/liujianhao/share/sponge/cmake-build-debug/libsponge",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/Users/liujianhao/share/sponge/libsponge/util -I/Users/liujianhao/share/sponge/libsponge/tcp_helpers -I/Users/liujianhao/share/sponge/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -Wloop-analysis -g -ggdb3 -Og -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/sponge.dir/util/buffer.cc.o -c /Users/liujianhao/share/sponge/libsponge/util/buffer.cc",
+  "file": "/Users/liujianhao/share/sponge/libsponge/util/buffer.cc"
+},
+{
+  "directory": "/Users/liujianhao/share/sponge/cmake-build-debug/libsponge",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/Users/liujianhao/share/sponge/libsponge/util -I/Users/liujianhao/share/sponge/libsponge/tcp_helpers -I/Users/liujianhao/share/sponge/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -Wloop-analysis -g -ggdb3 -Og -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/sponge.dir/util/eventloop.cc.o -c /Users/liujianhao/share/sponge/libsponge/util/eventloop.cc",
+  "file": "/Users/liujianhao/share/sponge/libsponge/util/eventloop.cc"
+},
+{
+  "directory": "/Users/liujianhao/share/sponge/cmake-build-debug/libsponge",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/Users/liujianhao/share/sponge/libsponge/util -I/Users/liujianhao/share/sponge/libsponge/tcp_helpers -I/Users/liujianhao/share/sponge/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -Wloop-analysis -g -ggdb3 -Og -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/sponge.dir/util/file_descriptor.cc.o -c /Users/liujianhao/share/sponge/libsponge/util/file_descriptor.cc",
+  "file": "/Users/liujianhao/share/sponge/libsponge/util/file_descriptor.cc"
+},
+{
+  "directory": "/Users/liujianhao/share/sponge/cmake-build-debug/libsponge",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/Users/liujianhao/share/sponge/libsponge/util -I/Users/liujianhao/share/sponge/libsponge/tcp_helpers -I/Users/liujianhao/share/sponge/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -Wloop-analysis -g -ggdb3 -Og -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/sponge.dir/util/parser.cc.o -c /Users/liujianhao/share/sponge/libsponge/util/parser.cc",
+  "file": "/Users/liujianhao/share/sponge/libsponge/util/parser.cc"
+},
+{
+  "directory": "/Users/liujianhao/share/sponge/cmake-build-debug/libsponge",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/Users/liujianhao/share/sponge/libsponge/util -I/Users/liujianhao/share/sponge/libsponge/tcp_helpers -I/Users/liujianhao/share/sponge/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -Wloop-analysis -g -ggdb3 -Og -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/sponge.dir/util/socket.cc.o -c /Users/liujianhao/share/sponge/libsponge/util/socket.cc",
+  "file": "/Users/liujianhao/share/sponge/libsponge/util/socket.cc"
+},
+{
+  "directory": "/Users/liujianhao/share/sponge/cmake-build-debug/libsponge",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/Users/liujianhao/share/sponge/libsponge/util -I/Users/liujianhao/share/sponge/libsponge/tcp_helpers -I/Users/liujianhao/share/sponge/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -Wloop-analysis -g -ggdb3 -Og -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/sponge.dir/util/tun.cc.o -c /Users/liujianhao/share/sponge/libsponge/util/tun.cc",
+  "file": "/Users/liujianhao/share/sponge/libsponge/util/tun.cc"
+},
+{
+  "directory": "/Users/liujianhao/share/sponge/cmake-build-debug/libsponge",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/Users/liujianhao/share/sponge/libsponge/util -I/Users/liujianhao/share/sponge/libsponge/tcp_helpers -I/Users/liujianhao/share/sponge/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -Wloop-analysis -g -ggdb3 -Og -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/sponge.dir/util/util.cc.o -c /Users/liujianhao/share/sponge/libsponge/util/util.cc",
+  "file": "/Users/liujianhao/share/sponge/libsponge/util/util.cc"
+},
+{
+  "directory": "/Users/liujianhao/share/sponge/cmake-build-debug/apps",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/Users/liujianhao/share/sponge/libsponge/util -I/Users/liujianhao/share/sponge/libsponge/tcp_helpers -I/Users/liujianhao/share/sponge/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -Wloop-analysis -g -ggdb3 -Og -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/webget.dir/webget.cc.o -c /Users/liujianhao/share/sponge/apps/webget.cc",
+  "file": "/Users/liujianhao/share/sponge/apps/webget.cc"
+},
+{
+  "directory": "/Users/liujianhao/share/sponge/cmake-build-debug/tests",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/Users/liujianhao/share/sponge/libsponge/util -I/Users/liujianhao/share/sponge/libsponge/tcp_helpers -I/Users/liujianhao/share/sponge/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -Wloop-analysis -g -ggdb3 -Og -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/byte_stream_capacity.dir/byte_stream_capacity.cc.o -c /Users/liujianhao/share/sponge/tests/byte_stream_capacity.cc",
+  "file": "/Users/liujianhao/share/sponge/tests/byte_stream_capacity.cc"
+},
+{
+  "directory": "/Users/liujianhao/share/sponge/cmake-build-debug/tests",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/Users/liujianhao/share/sponge/libsponge/util -I/Users/liujianhao/share/sponge/libsponge/tcp_helpers -I/Users/liujianhao/share/sponge/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -Wloop-analysis -g -ggdb3 -Og -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/byte_stream_one_write.dir/byte_stream_one_write.cc.o -c /Users/liujianhao/share/sponge/tests/byte_stream_one_write.cc",
+  "file": "/Users/liujianhao/share/sponge/tests/byte_stream_one_write.cc"
+},
+{
+  "directory": "/Users/liujianhao/share/sponge/cmake-build-debug/tests",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/Users/liujianhao/share/sponge/libsponge/util -I/Users/liujianhao/share/sponge/libsponge/tcp_helpers -I/Users/liujianhao/share/sponge/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -Wloop-analysis -g -ggdb3 -Og -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/byte_stream_two_writes.dir/byte_stream_two_writes.cc.o -c /Users/liujianhao/share/sponge/tests/byte_stream_two_writes.cc",
+  "file": "/Users/liujianhao/share/sponge/tests/byte_stream_two_writes.cc"
+},
+{
+  "directory": "/Users/liujianhao/share/sponge/cmake-build-debug/tests",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/Users/liujianhao/share/sponge/libsponge/util -I/Users/liujianhao/share/sponge/libsponge/tcp_helpers -I/Users/liujianhao/share/sponge/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -Wloop-analysis -g -ggdb3 -Og -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/byte_stream_many_writes.dir/byte_stream_many_writes.cc.o -c /Users/liujianhao/share/sponge/tests/byte_stream_many_writes.cc",
+  "file": "/Users/liujianhao/share/sponge/tests/byte_stream_many_writes.cc"
+},
+{
+  "directory": "/Users/liujianhao/share/sponge/cmake-build-debug/tests",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/Users/liujianhao/share/sponge/libsponge/util -I/Users/liujianhao/share/sponge/libsponge/tcp_helpers -I/Users/liujianhao/share/sponge/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -Wloop-analysis -g -ggdb3 -Og -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/byte_stream_construction.dir/byte_stream_construction.cc.o -c /Users/liujianhao/share/sponge/tests/byte_stream_construction.cc",
+  "file": "/Users/liujianhao/share/sponge/tests/byte_stream_construction.cc"
+},
+{
+  "directory": "/Users/liujianhao/share/sponge/cmake-build-debug/tests",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/Users/liujianhao/share/sponge/libsponge/util -I/Users/liujianhao/share/sponge/libsponge/tcp_helpers -I/Users/liujianhao/share/sponge/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -Wloop-analysis -g -ggdb3 -Og -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/spongechecks.dir/byte_stream_test_harness.cc.o -c /Users/liujianhao/share/sponge/tests/byte_stream_test_harness.cc",
+  "file": "/Users/liujianhao/share/sponge/tests/byte_stream_test_harness.cc"
+},
+{
+  "directory": "/Users/liujianhao/share/sponge/cmake-build-debug/doctests",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/Users/liujianhao/share/sponge/libsponge/util -I/Users/liujianhao/share/sponge/libsponge/tcp_helpers -I/Users/liujianhao/share/sponge/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -Wloop-analysis -g -ggdb3 -Og -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/socket_dt.dir/socket_dt.cc.o -c /Users/liujianhao/share/sponge/doctests/socket_dt.cc",
+  "file": "/Users/liujianhao/share/sponge/doctests/socket_dt.cc"
+},
+{
+  "directory": "/Users/liujianhao/share/sponge/cmake-build-debug/doctests",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/Users/liujianhao/share/sponge/libsponge/util -I/Users/liujianhao/share/sponge/libsponge/tcp_helpers -I/Users/liujianhao/share/sponge/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -Wloop-analysis -g -ggdb3 -Og -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/parser_dt.dir/parser_dt.cc.o -c /Users/liujianhao/share/sponge/doctests/parser_dt.cc",
+  "file": "/Users/liujianhao/share/sponge/doctests/parser_dt.cc"
+},
+{
+  "directory": "/Users/liujianhao/share/sponge/cmake-build-debug/doctests",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/Users/liujianhao/share/sponge/libsponge/util -I/Users/liujianhao/share/sponge/libsponge/tcp_helpers -I/Users/liujianhao/share/sponge/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -Wloop-analysis -g -ggdb3 -Og -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/address_dt.dir/address_dt.cc.o -c /Users/liujianhao/share/sponge/doctests/address_dt.cc",
+  "file": "/Users/liujianhao/share/sponge/doctests/address_dt.cc"
+}
+]

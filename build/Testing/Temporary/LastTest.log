@@ -1,0 +1,142 @@
+Start testing: Sep 02 07:51 PDT
+----------------------------------------------------------
+23/166 Testing: t_byte_stream_construction
+23/166 Test: t_byte_stream_construction
+Command: "/media/sf_share/sponge/build/tests/byte_stream_construction"
+Directory: /media/sf_share/sponge/build
+"t_byte_stream_construction" start time: Sep 02 07:51 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_construction" end time: Sep 02 07:51 PDT
+"t_byte_stream_construction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/166 Testing: t_byte_stream_one_write
+24/166 Test: t_byte_stream_one_write
+Command: "/media/sf_share/sponge/build/tests/byte_stream_one_write"
+Directory: /media/sf_share/sponge/build
+"t_byte_stream_one_write" start time: Sep 02 07:51 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_one_write" end time: Sep 02 07:51 PDT
+"t_byte_stream_one_write" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/166 Testing: t_byte_stream_two_writes
+25/166 Test: t_byte_stream_two_writes
+Command: "/media/sf_share/sponge/build/tests/byte_stream_two_writes"
+Directory: /media/sf_share/sponge/build
+"t_byte_stream_two_writes" start time: Sep 02 07:51 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_two_writes" end time: Sep 02 07:51 PDT
+"t_byte_stream_two_writes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/166 Testing: t_byte_stream_capacity
+26/166 Test: t_byte_stream_capacity
+Command: "/media/sf_share/sponge/build/tests/byte_stream_capacity"
+Directory: /media/sf_share/sponge/build
+"t_byte_stream_capacity" start time: Sep 02 07:51 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.45 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_capacity" end time: Sep 02 07:51 PDT
+"t_byte_stream_capacity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/166 Testing: t_byte_stream_many_writes
+27/166 Test: t_byte_stream_many_writes
+Command: "/media/sf_share/sponge/build/tests/byte_stream_many_writes"
+Directory: /media/sf_share/sponge/build
+"t_byte_stream_many_writes" start time: Sep 02 07:51 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_many_writes" end time: Sep 02 07:51 PDT
+"t_byte_stream_many_writes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/166 Testing: t_webget
+28/166 Test: t_webget
+Command: "/media/sf_share/sponge/tests/webget_t.sh"
+Directory: /media/sf_share/sponge/build
+"t_webget" start time: Sep 02 07:51 PDT
+Output:
+----------------------------------------------------------
+HTTP/1.1 200 OK
+Content-type: text/plain
+
+7SmXqWkrLKzVBCEalbSPqBcvs11Pw263K7x4Wv3JckI
+<end of output>
+Test time =   1.65 sec
+----------------------------------------------------------
+Test Passed.
+"t_webget" end time: Sep 02 07:51 PDT
+"t_webget" time elapsed: 00:00:01
+----------------------------------------------------------
+
+50/166 Testing: t_address_dt
+50/166 Test: t_address_dt
+Command: "/media/sf_share/sponge/build/doctests/address_dt"
+Directory: /media/sf_share/sponge/build
+"t_address_dt" start time: Sep 02 07:51 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"t_address_dt" end time: Sep 02 07:51 PDT
+"t_address_dt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/166 Testing: t_parser_dt
+51/166 Test: t_parser_dt
+Command: "/media/sf_share/sponge/build/doctests/parser_dt"
+Directory: /media/sf_share/sponge/build
+"t_parser_dt" start time: Sep 02 07:51 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_parser_dt" end time: Sep 02 07:51 PDT
+"t_parser_dt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/166 Testing: t_socket_dt
+52/166 Test: t_socket_dt
+Command: "/media/sf_share/sponge/build/doctests/socket_dt"
+Directory: /media/sf_share/sponge/build
+"t_socket_dt" start time: Sep 02 07:51 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_socket_dt" end time: Sep 02 07:51 PDT
+"t_socket_dt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 02 07:51 PDT
