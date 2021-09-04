@@ -1,0 +1,9 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/liujianhao/share/sponge
+--   NOTE: You can choose a build type by calling cmake with one of:
+--     -DCMAKE_BUILD_TYPE=Release   -- full optimizations
+--     -DCMAKE_BUILD_TYPE=Debug     -- better debugging experience in gdb
+--     -DCMAKE_BUILD_TYPE=RelASan   -- full optimizations plus address and undefined-behavior sanitizers
+--     -DCMAKE_BUILD_TYPE=DebugASan -- debug plus sanitizers
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/liujianhao/share/sponge/cmake-build-debug
