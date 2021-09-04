@@ -6,12 +6,16 @@ https://cs144.github.io/
 
 下图就是整体流程：
 
+![image](https://user-images.githubusercontent.com/26483688/132100239-fdcecabd-aaec-4552-926c-bb8ccbbbbb8d.png)
 
 
 这次代码需要写的不多，但是lab1任务书里有些地方可能要完全理解才能写下去，有些东西还没讲qwq，要靠自己跑测试case才能发现问题。
 
 
 然后我也画了一个和任务书里类似的图，理解它也很重要：
+
+![image](https://user-images.githubusercontent.com/26483688/132100260-ade2e8ce-53ca-4c98-8347-de414cdfc837.png)
+
 
 
 
