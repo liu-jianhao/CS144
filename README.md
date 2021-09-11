@@ -3,3 +3,4 @@
 
 - [x] [lab0](https://github.com/liu-jianhao/CS144/tree/lab0)
 - [x] [lab1](https://github.com/liu-jianhao/CS144/tree/lab1)
+- [x] [lab2](https://github.com/liu-jianhao/CS144/tree/lab2)
