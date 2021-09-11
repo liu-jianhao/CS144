@@ -7,6 +7,7 @@
 ## 第一部分：wrapping_integers
 需要重点理解下面这张图：
 
+![image](https://user-images.githubusercontent.com/26483688/132952592-461807be-011d-44d2-a48b-5263a2d21e8e.png)
 
 
 - seqno：在TCP传输的TCPsegment中的标志每个字节的序列号，从ISN开始，32位。
@@ -62,6 +63,9 @@ TCPReceiver负责：
 - 计算ackno 和 window size，它们最后被发送回对方
 
 下图是TCPsegment的格式，是网络层的IP数据报的载荷部分。非灰色的字段是这个lab关注的部分
+
+![image](https://user-images.githubusercontent.com/26483688/132952599-c8d5a599-9815-4063-b1dc-fa3b4da752ca.png)
+
 
 由TCPsender发送，被TCPReceiver接收的部分：
 - 序列号seqno
