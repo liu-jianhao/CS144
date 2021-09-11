@@ -1,0 +1,48 @@
+# Doxyfile 1.8.14
+
+DOXYFILE_ENCODING      = UTF-8
+PROJECT_NAME           = "Sponge"
+PROJECT_BRIEF          = "CS144's user-space TCP library"
+PROJECT_LOGO           = "/Users/liujianhao/share/sponge/etc/sponge_small.png"
+INPUT                  = /Users/liujianhao/share/sponge
+RECURSIVE              = YES
+EXCLUDE                = /Users/liujianhao/share/sponge/etc /Users/liujianhao/share/sponge/build /Users/liujianhao/share/sponge/tests /Users/liujianhao/share/sponge/writeups
+OUTPUT_DIRECTORY       = "/Users/liujianhao/share/sponge/cmake-build-debug/doc"
+CASE_SENSE_NAMES       = NO
+SORT_BRIEF_DOCS        = YES
+SORT_MEMBERS_CTORS_1ST = YES
+SHOW_NAMESPACES        = NO
+USE_MDFILE_AS_MAINPAGE = /Users/liujianhao/share/sponge/README.md
+SOURCE_BROWSER         = YES
+EXT_LINKS_IN_WINDOW    = YES
+INCLUDE_PATH           = /Users/liujianhao/share/sponge/libsponge
+TAGFILES               = "/Users/liujianhao/share/sponge/etc/cppreference-doxygen-web.tag.xml=https://en.cppreference.com/w/"
+TAGFILES              += "/Users/liujianhao/share/sponge/etc/linux-man-doxygen-web.tag.xml=https://man7.org/linux/man-pages/"
+TAGFILES              += "/Users/liujianhao/share/sponge/etc/rfc-doxygen-web.tag.xml=https://tools.ietf.org/html/"
+HIDE_UNDOC_RELATIONS   = NO
+INLINE_GROUPED_CLASSES = YES
+INLINE_SIMPLE_STRUCTS  = YES
+HTML_COLORSTYLE_HUE    = 204
+HTML_COLORSTYLE_SAT    = 120
+HTML_COLORSTYLE_GAMMA  = 60
+HTML_EXTRA_STYLESHEET  = "/Users/liujianhao/share/sponge/etc/sponge_doxygen.css"
+GENERATE_LATEX         = NO
+EXAMPLE_PATH           = "/Users/liujianhao/share/sponge/doctests"
+
+# cmake detects whether dot is available
+HAVE_DOT               = YES
+CLASS_GRAPH            = YES
+TEMPLATE_RELATIONS     = YES
+DOT_IMAGE_FORMAT       = png
+INTERACTIVE_SVG        = NO
+COLLABORATION_GRAPH    = NO
+
+# ??? temporary
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+EXTRACT_ANON_NSPACES   = YES
+
+# do u liek eclips
+GENERATE_ECLIPSEHELP   = NO
+ECLIPSE_DOC_ID         = edu.stanford.cs144.sponge

@@ -1,0 +1,393 @@
+Start testing: Sep 11 06:12 PDT
+----------------------------------------------------------
+1/168 Testing: t_wrapping_ints_cmp
+1/168 Test: t_wrapping_ints_cmp
+Command: "/media/sf_share/sponge/build/tests/wrapping_integers_cmp"
+Directory: /media/sf_share/sponge/build
+"t_wrapping_ints_cmp" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_wrapping_ints_cmp" end time: Sep 11 06:12 PDT
+"t_wrapping_ints_cmp" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/168 Testing: t_wrapping_ints_unwrap
+2/168 Test: t_wrapping_ints_unwrap
+Command: "/media/sf_share/sponge/build/tests/wrapping_integers_unwrap"
+Directory: /media/sf_share/sponge/build
+"t_wrapping_ints_unwrap" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_wrapping_ints_unwrap" end time: Sep 11 06:12 PDT
+"t_wrapping_ints_unwrap" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/168 Testing: t_wrapping_ints_wrap
+3/168 Test: t_wrapping_ints_wrap
+Command: "/media/sf_share/sponge/build/tests/wrapping_integers_wrap"
+Directory: /media/sf_share/sponge/build
+"t_wrapping_ints_wrap" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_wrapping_ints_wrap" end time: Sep 11 06:12 PDT
+"t_wrapping_ints_wrap" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/168 Testing: t_wrapping_ints_roundtrip
+4/168 Test: t_wrapping_ints_roundtrip
+Command: "/media/sf_share/sponge/build/tests/wrapping_integers_roundtrip"
+Directory: /media/sf_share/sponge/build
+"t_wrapping_ints_roundtrip" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.39 sec
+----------------------------------------------------------
+Test Passed.
+"t_wrapping_ints_roundtrip" end time: Sep 11 06:12 PDT
+"t_wrapping_ints_roundtrip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/168 Testing: t_recv_connect
+5/168 Test: t_recv_connect
+Command: "/media/sf_share/sponge/build/tests/recv_connect"
+Directory: /media/sf_share/sponge/build
+"t_recv_connect" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_recv_connect" end time: Sep 11 06:12 PDT
+"t_recv_connect" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/168 Testing: t_recv_transmit
+6/168 Test: t_recv_transmit
+Command: "/media/sf_share/sponge/build/tests/recv_transmit"
+Directory: /media/sf_share/sponge/build
+"t_recv_transmit" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"t_recv_transmit" end time: Sep 11 06:12 PDT
+"t_recv_transmit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/168 Testing: t_recv_window
+7/168 Test: t_recv_window
+Command: "/media/sf_share/sponge/build/tests/recv_window"
+Directory: /media/sf_share/sponge/build
+"t_recv_window" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_recv_window" end time: Sep 11 06:12 PDT
+"t_recv_window" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/168 Testing: t_recv_reorder
+8/168 Test: t_recv_reorder
+Command: "/media/sf_share/sponge/build/tests/recv_reorder"
+Directory: /media/sf_share/sponge/build
+"t_recv_reorder" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"t_recv_reorder" end time: Sep 11 06:12 PDT
+"t_recv_reorder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/168 Testing: t_recv_close
+9/168 Test: t_recv_close
+Command: "/media/sf_share/sponge/build/tests/recv_close"
+Directory: /media/sf_share/sponge/build
+"t_recv_close" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_recv_close" end time: Sep 11 06:12 PDT
+"t_recv_close" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/168 Testing: t_recv_special
+10/168 Test: t_recv_special
+Command: "/media/sf_share/sponge/build/tests/recv_special"
+Directory: /media/sf_share/sponge/build
+"t_recv_special" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_recv_special" end time: Sep 11 06:12 PDT
+"t_recv_special" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/168 Testing: t_strm_reassem_single
+17/168 Test: t_strm_reassem_single
+Command: "/media/sf_share/sponge/build/tests/fsm_stream_reassembler_single"
+Directory: /media/sf_share/sponge/build
+"t_strm_reassem_single" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_single" end time: Sep 11 06:12 PDT
+"t_strm_reassem_single" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/168 Testing: t_strm_reassem_seq
+18/168 Test: t_strm_reassem_seq
+Command: "/media/sf_share/sponge/build/tests/fsm_stream_reassembler_seq"
+Directory: /media/sf_share/sponge/build
+"t_strm_reassem_seq" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_seq" end time: Sep 11 06:12 PDT
+"t_strm_reassem_seq" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/168 Testing: t_strm_reassem_dup
+19/168 Test: t_strm_reassem_dup
+Command: "/media/sf_share/sponge/build/tests/fsm_stream_reassembler_dup"
+Directory: /media/sf_share/sponge/build
+"t_strm_reassem_dup" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_dup" end time: Sep 11 06:12 PDT
+"t_strm_reassem_dup" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/168 Testing: t_strm_reassem_holes
+20/168 Test: t_strm_reassem_holes
+Command: "/media/sf_share/sponge/build/tests/fsm_stream_reassembler_holes"
+Directory: /media/sf_share/sponge/build
+"t_strm_reassem_holes" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_holes" end time: Sep 11 06:12 PDT
+"t_strm_reassem_holes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/168 Testing: t_strm_reassem_many
+21/168 Test: t_strm_reassem_many
+Command: "/media/sf_share/sponge/build/tests/fsm_stream_reassembler_many"
+Directory: /media/sf_share/sponge/build
+"t_strm_reassem_many" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   1.51 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_many" end time: Sep 11 06:12 PDT
+"t_strm_reassem_many" time elapsed: 00:00:01
+----------------------------------------------------------
+
+22/168 Testing: t_strm_reassem_overlapping
+22/168 Test: t_strm_reassem_overlapping
+Command: "/media/sf_share/sponge/build/tests/fsm_stream_reassembler_overlapping"
+Directory: /media/sf_share/sponge/build
+"t_strm_reassem_overlapping" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_overlapping" end time: Sep 11 06:12 PDT
+"t_strm_reassem_overlapping" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/168 Testing: t_strm_reassem_win
+23/168 Test: t_strm_reassem_win
+Command: "/media/sf_share/sponge/build/tests/fsm_stream_reassembler_win"
+Directory: /media/sf_share/sponge/build
+"t_strm_reassem_win" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   1.54 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_win" end time: Sep 11 06:12 PDT
+"t_strm_reassem_win" time elapsed: 00:00:01
+----------------------------------------------------------
+
+24/168 Testing: t_strm_reassem_cap
+24/168 Test: t_strm_reassem_cap
+Command: "/media/sf_share/sponge/build/tests/fsm_stream_reassembler_cap"
+Directory: /media/sf_share/sponge/build
+"t_strm_reassem_cap" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.17 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_cap" end time: Sep 11 06:12 PDT
+"t_strm_reassem_cap" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/168 Testing: t_byte_stream_construction
+25/168 Test: t_byte_stream_construction
+Command: "/media/sf_share/sponge/build/tests/byte_stream_construction"
+Directory: /media/sf_share/sponge/build
+"t_byte_stream_construction" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_construction" end time: Sep 11 06:12 PDT
+"t_byte_stream_construction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/168 Testing: t_byte_stream_one_write
+26/168 Test: t_byte_stream_one_write
+Command: "/media/sf_share/sponge/build/tests/byte_stream_one_write"
+Directory: /media/sf_share/sponge/build
+"t_byte_stream_one_write" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_one_write" end time: Sep 11 06:12 PDT
+"t_byte_stream_one_write" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/168 Testing: t_byte_stream_two_writes
+27/168 Test: t_byte_stream_two_writes
+Command: "/media/sf_share/sponge/build/tests/byte_stream_two_writes"
+Directory: /media/sf_share/sponge/build
+"t_byte_stream_two_writes" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_two_writes" end time: Sep 11 06:12 PDT
+"t_byte_stream_two_writes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/168 Testing: t_byte_stream_capacity
+28/168 Test: t_byte_stream_capacity
+Command: "/media/sf_share/sponge/build/tests/byte_stream_capacity"
+Directory: /media/sf_share/sponge/build
+"t_byte_stream_capacity" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.97 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_capacity" end time: Sep 11 06:12 PDT
+"t_byte_stream_capacity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/168 Testing: t_byte_stream_many_writes
+29/168 Test: t_byte_stream_many_writes
+Command: "/media/sf_share/sponge/build/tests/byte_stream_many_writes"
+Directory: /media/sf_share/sponge/build
+"t_byte_stream_many_writes" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_many_writes" end time: Sep 11 06:12 PDT
+"t_byte_stream_many_writes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/168 Testing: t_address_dt
+52/168 Test: t_address_dt
+Command: "/media/sf_share/sponge/build/doctests/address_dt"
+Directory: /media/sf_share/sponge/build
+"t_address_dt" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"t_address_dt" end time: Sep 11 06:12 PDT
+"t_address_dt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/168 Testing: t_parser_dt
+53/168 Test: t_parser_dt
+Command: "/media/sf_share/sponge/build/doctests/parser_dt"
+Directory: /media/sf_share/sponge/build
+"t_parser_dt" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_parser_dt" end time: Sep 11 06:12 PDT
+"t_parser_dt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/168 Testing: t_socket_dt
+54/168 Test: t_socket_dt
+Command: "/media/sf_share/sponge/build/doctests/socket_dt"
+Directory: /media/sf_share/sponge/build
+"t_socket_dt" start time: Sep 11 06:12 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_socket_dt" end time: Sep 11 06:12 PDT
+"t_socket_dt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 11 06:12 PDT

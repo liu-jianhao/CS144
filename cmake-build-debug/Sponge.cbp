@@ -1,0 +1,1824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Sponge"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;CMake Files\etc\;CMake Files\libsponge\;CMake Files\apps\;CMake Files\tests\;CMake Files\doctests\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="check_lab0">
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 check_lab0"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="check">
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 check"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="check_lab6">
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 check_lab6"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="check_lab4">
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 check_lab4"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="check_lab3">
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 check_lab3"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="check_lab5">
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 check_lab5"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="format">
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 format"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="check_lab2">
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 check_lab2"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="check_lab1">
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 check_lab1"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="check_webget">
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 check_webget"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="doc">
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 doc"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sponge">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/libsponge/libsponge.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/libsponge"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/libsponge/Makefile&quot;  VERBOSE=1 sponge"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/libsponge/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/libsponge/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/libsponge/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sponge/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/libsponge/libsponge.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/libsponge"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/libsponge/Makefile&quot;  VERBOSE=1 sponge/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/libsponge/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/libsponge/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/libsponge/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="webget">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/apps/webget" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/apps"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/apps/Makefile&quot;  VERBOSE=1 webget"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/apps/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/apps/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/apps/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="webget/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/apps/webget" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/apps"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/apps/Makefile&quot;  VERBOSE=1 webget/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/apps/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/apps/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/apps/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="recv_special">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/recv_special" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 recv_special"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="recv_special/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/recv_special" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 recv_special/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="recv_reorder">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/recv_reorder" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 recv_reorder"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="recv_reorder/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/recv_reorder" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 recv_reorder/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wrapping_integers_unwrap">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/wrapping_integers_unwrap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 wrapping_integers_unwrap"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wrapping_integers_unwrap/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/wrapping_integers_unwrap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 wrapping_integers_unwrap/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tcp_parser">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/tcp_parser" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 tcp_parser"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tcp_parser/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/tcp_parser" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 tcp_parser/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="byte_stream_two_writes">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/byte_stream_two_writes" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 byte_stream_two_writes"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="byte_stream_two_writes/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/byte_stream_two_writes" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 byte_stream_two_writes/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fsm_stream_reassembler_win">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/fsm_stream_reassembler_win" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 fsm_stream_reassembler_win"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fsm_stream_reassembler_win/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/fsm_stream_reassembler_win" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 fsm_stream_reassembler_win/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="byte_stream_many_writes">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/byte_stream_many_writes" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 byte_stream_many_writes"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="byte_stream_many_writes/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/byte_stream_many_writes" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 byte_stream_many_writes/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wrapping_integers_roundtrip">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/wrapping_integers_roundtrip" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 wrapping_integers_roundtrip"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wrapping_integers_roundtrip/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/wrapping_integers_roundtrip" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 wrapping_integers_roundtrip/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="byte_stream_one_write">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/byte_stream_one_write" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 byte_stream_one_write"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="byte_stream_one_write/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/byte_stream_one_write" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 byte_stream_one_write/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="recv_transmit">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/recv_transmit" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 recv_transmit"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="recv_transmit/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/recv_transmit" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 recv_transmit/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="byte_stream_construction">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/byte_stream_construction" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 byte_stream_construction"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="byte_stream_construction/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/byte_stream_construction" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 byte_stream_construction/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fsm_stream_reassembler_overlapping">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/fsm_stream_reassembler_overlapping" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 fsm_stream_reassembler_overlapping"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fsm_stream_reassembler_overlapping/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/fsm_stream_reassembler_overlapping" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 fsm_stream_reassembler_overlapping/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fsm_stream_reassembler_dup">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/fsm_stream_reassembler_dup" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 fsm_stream_reassembler_dup"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fsm_stream_reassembler_dup/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/fsm_stream_reassembler_dup" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 fsm_stream_reassembler_dup/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fsm_stream_reassembler_holes">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/fsm_stream_reassembler_holes" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 fsm_stream_reassembler_holes"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fsm_stream_reassembler_holes/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/fsm_stream_reassembler_holes" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 fsm_stream_reassembler_holes/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fsm_stream_reassembler_cap">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/fsm_stream_reassembler_cap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 fsm_stream_reassembler_cap"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fsm_stream_reassembler_cap/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/fsm_stream_reassembler_cap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 fsm_stream_reassembler_cap/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fsm_stream_reassembler_many">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/fsm_stream_reassembler_many" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 fsm_stream_reassembler_many"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fsm_stream_reassembler_many/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/fsm_stream_reassembler_many" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 fsm_stream_reassembler_many/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="recv_window">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/recv_window" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 recv_window"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="recv_window/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/recv_window" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 recv_window/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="recv_connect">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/recv_connect" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 recv_connect"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="recv_connect/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/recv_connect" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 recv_connect/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wrapping_integers_cmp">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/wrapping_integers_cmp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 wrapping_integers_cmp"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wrapping_integers_cmp/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/wrapping_integers_cmp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 wrapping_integers_cmp/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="spongechecks">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/libspongechecks.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 spongechecks"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="spongechecks/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/libspongechecks.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 spongechecks/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fsm_stream_reassembler_seq">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/fsm_stream_reassembler_seq" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 fsm_stream_reassembler_seq"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fsm_stream_reassembler_seq/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/fsm_stream_reassembler_seq" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 fsm_stream_reassembler_seq/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fsm_stream_reassembler_single">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/fsm_stream_reassembler_single" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 fsm_stream_reassembler_single"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fsm_stream_reassembler_single/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/fsm_stream_reassembler_single" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 fsm_stream_reassembler_single/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wrapping_integers_wrap">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/wrapping_integers_wrap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 wrapping_integers_wrap"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wrapping_integers_wrap/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/wrapping_integers_wrap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 wrapping_integers_wrap/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="recv_close">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/recv_close" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 recv_close"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="recv_close/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/recv_close" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 recv_close/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="byte_stream_capacity">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/byte_stream_capacity" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 byte_stream_capacity"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="byte_stream_capacity/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/tests/byte_stream_capacity" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 byte_stream_capacity/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="socket_dt">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/doctests/socket_dt" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/doctests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/doctests/Makefile&quot;  VERBOSE=1 socket_dt"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/doctests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/doctests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/doctests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="socket_dt/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/doctests/socket_dt" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/doctests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/doctests/Makefile&quot;  VERBOSE=1 socket_dt/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/doctests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/doctests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/doctests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="parser_dt">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/doctests/parser_dt" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/doctests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/doctests/Makefile&quot;  VERBOSE=1 parser_dt"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/doctests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/doctests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/doctests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="parser_dt/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/doctests/parser_dt" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/doctests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/doctests/Makefile&quot;  VERBOSE=1 parser_dt/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/doctests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/doctests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/doctests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="address_dt">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/doctests/address_dt" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/doctests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/doctests/Makefile&quot;  VERBOSE=1 address_dt"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/doctests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/doctests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/doctests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="address_dt/fast">
+				<Option output="/Users/liujianhao/share/sponge/cmake-build-debug/doctests/address_dt" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujianhao/share/sponge/cmake-build-debug/doctests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/util"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge/tcp_helpers"/>
+					<Add directory="/Users/liujianhao/share/sponge/libsponge"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/doctests/Makefile&quot;  VERBOSE=1 address_dt/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/doctests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/doctests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/liujianhao/share/sponge/cmake-build-debug/doctests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/liujianhao/share/sponge/apps/webget.cc">
+			<Option target="webget"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/doctests/address_dt.cc">
+			<Option target="address_dt"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/doctests/parser_dt.cc">
+			<Option target="parser_dt"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/doctests/socket_dt.cc">
+			<Option target="socket_dt"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/byte_stream.cc">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/byte_stream.hh">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/stream_reassembler.cc">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/stream_reassembler.hh">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/tcp_helpers/tcp_header.cc">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/tcp_helpers/tcp_header.hh">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/tcp_helpers/tcp_segment.cc">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/tcp_helpers/tcp_segment.hh">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/tcp_helpers/tcp_state.cc">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/tcp_helpers/tcp_state.hh">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/tcp_receiver.cc">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/tcp_receiver.hh">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/util/address.cc">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/util/address.hh">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/util/buffer.cc">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/util/buffer.hh">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/util/eventloop.cc">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/util/eventloop.hh">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/util/file_descriptor.cc">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/util/file_descriptor.hh">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/util/parser.cc">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/util/parser.hh">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/util/socket.cc">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/util/socket.hh">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/util/tun.cc">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/util/tun.hh">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/util/util.cc">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/util/util.hh">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/wrapping_integers.cc">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/wrapping_integers.hh">
+			<Option target="sponge"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/byte_stream_capacity.cc">
+			<Option target="byte_stream_capacity"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/byte_stream_construction.cc">
+			<Option target="byte_stream_construction"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/byte_stream_many_writes.cc">
+			<Option target="byte_stream_many_writes"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/byte_stream_one_write.cc">
+			<Option target="byte_stream_one_write"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/byte_stream_test_harness.cc">
+			<Option target="spongechecks"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/byte_stream_test_harness.hh">
+			<Option target="spongechecks"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/byte_stream_two_writes.cc">
+			<Option target="byte_stream_two_writes"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/fsm_stream_reassembler_cap.cc">
+			<Option target="fsm_stream_reassembler_cap"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/fsm_stream_reassembler_dup.cc">
+			<Option target="fsm_stream_reassembler_dup"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/fsm_stream_reassembler_holes.cc">
+			<Option target="fsm_stream_reassembler_holes"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/fsm_stream_reassembler_many.cc">
+			<Option target="fsm_stream_reassembler_many"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/fsm_stream_reassembler_overlapping.cc">
+			<Option target="fsm_stream_reassembler_overlapping"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/fsm_stream_reassembler_seq.cc">
+			<Option target="fsm_stream_reassembler_seq"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/fsm_stream_reassembler_single.cc">
+			<Option target="fsm_stream_reassembler_single"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/fsm_stream_reassembler_win.cc">
+			<Option target="fsm_stream_reassembler_win"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/recv_close.cc">
+			<Option target="recv_close"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/recv_connect.cc">
+			<Option target="recv_connect"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/recv_reorder.cc">
+			<Option target="recv_reorder"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/recv_special.cc">
+			<Option target="recv_special"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/recv_transmit.cc">
+			<Option target="recv_transmit"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/recv_window.cc">
+			<Option target="recv_window"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/tcp_parser.cc">
+			<Option target="tcp_parser"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/wrapping_integers_cmp.cc">
+			<Option target="wrapping_integers_cmp"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/wrapping_integers_roundtrip.cc">
+			<Option target="wrapping_integers_roundtrip"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/wrapping_integers_unwrap.cc">
+			<Option target="wrapping_integers_unwrap"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/wrapping_integers_wrap.cc">
+			<Option target="wrapping_integers_wrap"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/etc/Doxyfile.in">
+			<Option virtualFolder="CMake Files\etc\"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/etc/build_defs.cmake">
+			<Option virtualFolder="CMake Files\etc\"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/etc/build_type.cmake">
+			<Option virtualFolder="CMake Files\etc\"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/etc/cflags.cmake">
+			<Option virtualFolder="CMake Files\etc\"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/etc/clang_format.cmake">
+			<Option virtualFolder="CMake Files\etc\"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/etc/clang_tidy.cmake">
+			<Option virtualFolder="CMake Files\etc\"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/etc/cppcheck.cmake">
+			<Option virtualFolder="CMake Files\etc\"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/etc/doxygen.cmake">
+			<Option virtualFolder="CMake Files\etc\"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/etc/tests.cmake">
+			<Option virtualFolder="CMake Files\etc\"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/libsponge/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libsponge\"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/apps/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\apps\"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\"/>
+		</Unit>
+		<Unit filename="/Users/liujianhao/share/sponge/doctests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\doctests\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
