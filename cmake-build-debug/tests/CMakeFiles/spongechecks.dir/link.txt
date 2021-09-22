@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libspongechecks.a  CMakeFiles/spongechecks.dir/byte_stream_test_harness.cc.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libspongechecks.a
